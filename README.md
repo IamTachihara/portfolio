@@ -6,4 +6,4 @@ It includes my profile, skills, and past works.
 
 ## 🔗 View Site
 
-👉 [https://IamTachihara.github.io/portfolio](https://yourname.github.io/portfolio)
+👉 [https://IamTachihara.github.io/portfolio]([https://yourname.github.io/portfolio](https://github.com/IamTachihara/portfolio))
